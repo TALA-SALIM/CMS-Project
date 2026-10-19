@@ -1,0 +1,7 @@
+﻿**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+**/wwwroot/*firebase-adminsdk*.json
+appsettings.Development.json
